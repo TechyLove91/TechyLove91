@@ -1,4 +1,4 @@
-<h1>Hi, I'm Brittany!  <a href="www.linkedin.com/in/brittanyk-cybersec/">Cybersecurity Professional</a>
+<h1>Hi, I'm Brittany!  <a href="https://www.linkedin.com/in/brittanyk-cybersec/">Cybersecurity Professional</a>
 
 <h2>👩🏽‍💻 Cybersecurity Projects:</h2>
 
