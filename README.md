@@ -5,7 +5,7 @@
   - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
   
 <h2>📄 Certifications</h2>
-
+CompTIA Security+
 
 <h2>📺 YouTube Videos</h2>
 
